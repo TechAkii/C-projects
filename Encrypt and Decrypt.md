@@ -23,3 +23,7 @@
     🔑 The program shifts characters based on a predefined key (5 in this case).
 
     📜 The program displays the encrypted or decrypted word.
+
+---
+
+    Happy coding! 🎯🚀
