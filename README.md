@@ -1,4 +1,4 @@
-# 🚀 C Projects Repository
+<h1> 🚀 C Projects Repository</h1>
 
 Welcome to the **C Projects Repository**! 🎉 This repository contains various C programs covering essential topics, concepts, and algorithms. Whether you're learning C or practicing advanced topics, you'll find useful examples here.
 
